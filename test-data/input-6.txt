@@ -1,0 +1,4 @@
+# Test 6: Primary was fired last, secondary store has torpedoes, trigger alternate branch
+GT4500,0,0,10,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

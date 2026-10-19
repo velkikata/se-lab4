@@ -1,0 +1,5 @@
+# Test 7: Predictable test to cover alternating primary/secondary branches
+GT4500,1,0.0,1,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,ALL
