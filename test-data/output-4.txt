@@ -1,0 +1,2 @@
+SUCCESS # <- GT4500 initialization with failing primary store
+FAIL # <- TORPEDO,SINGLE
