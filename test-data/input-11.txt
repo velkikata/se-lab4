@@ -1,0 +1,3 @@
+# Test 4: ALL mode, primary empty, secondary has torpedo
+GT4500,0,0,1,0
+TORPEDO,ALL
