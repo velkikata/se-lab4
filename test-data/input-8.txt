@@ -1,0 +1,4 @@
+# Test 8: Hit the remaining red branch (primary was fired last, secondary empty, primary stocked)
+GT4500,2,0.0,0,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

@@ -1,0 +1,3 @@
+SUCCESS # <- GT4500 initialization
+SUCCESS # <- TORPEDO,SINGLE (first shot from primary)
+SUCCESS # <- TORPEDO,SINGLE (second shot from secondary due to cooling time)

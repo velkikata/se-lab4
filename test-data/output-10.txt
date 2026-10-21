@@ -1,0 +1,3 @@
+SUCCESS # <- GT4500 initialization
+SUCCESS # <- TORPEDO,SINGLE (primary empty, secondary fires, becomes empty, wasPrimaryFiredLast = false)
+FAIL # <- TORPEDO,SINGLE (primary empty, secondary empty -> failure)

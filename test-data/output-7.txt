@@ -1,0 +1,4 @@
+SUCCESS # <- GT4500 initialization with failure rates
+SUCCESS # <- TORPEDO,SINGLE
+SUCCESS # <- TORPEDO,SINGLE
+FAIL # <- TORPEDO,ALL

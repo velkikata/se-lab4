@@ -1,0 +1,3 @@
+SUCCESS # <- GT4500 initialization with empty primary and stocked secondary
+SUCCESS # <- TORPEDO,SINGLE
+SUCCESS # <- TORPEDO,SINGLE (switched or alternating path)

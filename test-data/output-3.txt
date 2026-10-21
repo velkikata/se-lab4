@@ -1,0 +1,2 @@
+SUCCESS # <- GT4500 initialization with empty primary store
+SUCCESS # <- TORPEDO,SINGLE (switched to secondary)

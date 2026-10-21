@@ -1,0 +1,4 @@
+# Test 2: Fire single twice to test store alternation due to cooling time
+GT4500,10,0,10,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
